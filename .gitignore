@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#ignore the file called hello_world
+hello_world
